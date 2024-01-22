@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "book_title": "some title",
+            "author": "goober",
+            "description": "silly goobers rule the world",
+            "category": "18+"
+        },
+        {
+            "book_title": "goober goober episode 2",
+            "author": "goober",
+            "description": "silly goobers rule the world.. AGAIN",
+            "category": "18+"
+        }
+    ]
+}
