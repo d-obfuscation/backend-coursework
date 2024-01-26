@@ -1,16 +1,16 @@
 {
     "books": [
         {
-            "book_title": "something",
-            "author": "mr obfuscation",
-            "description": "something",
-            "category": "action"
+            "book_title" : "something",
+            "author" : "mr obfuscation",
+            "description" : "something",
+            "category" : "action"
         },
         {
-            "book_title": "something 2",
-            "author": "mr obfuscation",
-            "description": "something again,
-            "category": "action"
+            "book_title" : "something 2",
+            "author" : "mr obfuscation",
+            "description" : "something again",
+            "category" : "action"
         }
     ]
 }
