@@ -1,2 +1,1 @@
-# webdev1
-bullshit backend dev
+just some shitty backend dev i have to do for college 🤷‍♂️🤷‍♂️🤷‍♂️
